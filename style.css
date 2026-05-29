@@ -1,0 +1,50 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.reveal {
+    font-family: Arial, sans-serif;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+    color: #003366;
+    text-transform: none;
+}
+
+.reveal section img {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.reveal p,
+.reveal li {
+    font-size: 28px;
+    color: #222;
+}
+
+.reveal .slides section {
+    text-align: left;
+}
+
+.divider {
+    text-align: center;
+    color: white;
+    background: linear-gradient(135deg, #003366, #0055aa);
+    padding: 100px;
+    border-radius: 20px;
+}
+
+.formula {
+    background: #eef4ff;
+    padding: 20px;
+    border-left: 6px solid #0055aa;
+    margin-top: 20px;
+}
+
+.graph-image {
+    width: 700px;
+    display: block;
+    margin: auto;
+}
